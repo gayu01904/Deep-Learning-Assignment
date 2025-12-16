@@ -1,3 +1,8 @@
+NAME	  Gayathri G
+USN	    1CD22AI020
+SUBJECT	Deep Learning and Reinforcement Learning
+SUBJECT CODE	BAI701
+
 # Deep-Learning-Assignment
 📌 Assignment Overview
 This repository contains optimized and improved implementations of various Deep Learning and Reinforcement Learning models.
